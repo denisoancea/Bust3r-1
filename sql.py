@@ -40,8 +40,8 @@ print colored("""
 print """
 ~~=[ Bust3r - XSS, SQL, LFI, RFI Injector 
 ~~=[ v1.4 - 'DarkMass'"""
-print colored("~~=[ coders: @0x232A, @DrDeadPatch",'cyan')
-print colored("~~=[ https://github.com/r0otshell, https://github.com/LucidScorpion",'yellow')
+print colored("~~=[ coders: @SubC0ol, @DrDeadPatch",'cyan')
+print colored("~~=[ https://github.com/sUbc0ol, https://github.com/LucidScorpion",'yellow')
 socket.setdefaulttimeout(5)
 
 class URLLister(SGMLParser):
